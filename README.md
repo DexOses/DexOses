@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying computer analyst at Universidad Nacional de Río Cuarto and Full-Stack Web Development at Soy Henry Bootcamp.
-- 💼 &nbsp; Working in progress at [InmobilApp](https://github.com/InmobilApp).
+- 💼 &nbsp; Working in [RockBox Studios SRL](https://rockboxstudios.com/).
 - 🌱 &nbsp; Learning more about Cloud Architecture and Systems Design.
 ---
 
